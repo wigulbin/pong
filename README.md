@@ -6,10 +6,11 @@ I've marked the sections that I did not create (mostly at the start of the file 
 the tutorial files, therefore things such as sprite creation are most likely done inefficiently.
 
 
+
 Playing the game:
 Included in the github is:
 * pong.asm - Contains source code
-* pongchr.nes - Contains sprites for the game
+* pongchr.nes - Contains sprites for the game, I created this using the program YY-CHR.NET and created the sprites from scratch
 * pong.fns  - Compiled game file, compiled with NESASM3 
 * pong.nes  - Compiled game file, compiled with NESASM3 
 
